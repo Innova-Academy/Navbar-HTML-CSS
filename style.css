@@ -1,0 +1,21 @@
+ div{
+    background-color: black;
+  }
+ 
+ ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 0;
+    background-color: black;
+}
+
+li,a{
+ 
+   
+    color: white;
+
+    text-decoration: none;
+list-style: none;    
+    padding: 1rem;
+}
